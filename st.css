@@ -1,0 +1,19 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1400px;
+    margin:0 auto;
+}
+header{
+    background:#36B1D8;
+}
+.asd{
+    display:flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+}
+.ceredina ::before{
+content:';'display block: ;
+}
